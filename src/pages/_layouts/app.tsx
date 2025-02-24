@@ -18,6 +18,8 @@ export function AppLayout() {
 
           if (status === 401 && code === 'UNAUTORHIZED') {
             navigate('/sign-in', { replace: true })
+          } else {
+            throw error
           }
         }
       },
