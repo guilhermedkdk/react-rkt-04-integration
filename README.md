@@ -21,7 +21,7 @@ Uma aplicação de dashboard de uma pizzaria feita como forma de estudos do curs
 Este projeto foi feito dentro do curso de ReactJS no módulo "Integração" da Rocketseat. Nele pude consolidar os conhecimentos sobre:
 
 ### React
-- Integração com API (HTTP)
+- Integração HTTP (API)
 - React Hook Form
 - React Query
 - shadcn/ui
